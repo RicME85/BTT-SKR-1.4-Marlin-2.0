@@ -1,4 +1,4 @@
-# BTT-SKR-1.4-Marlin-2.0
+# BTT-SKR-1.4-Marlin-2.0 - Filament Runout Enabled
 My build for my BTT SKR 1.4 running Marlin 2.0
 
 Orginally an Xvico X3 I have swapped the mainboard for a BTT SKR 1.4 (non Pro) with BTT 2.4 TFT.
